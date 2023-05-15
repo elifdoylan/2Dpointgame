@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ede6e6;
+}
+
+#gameCanvas {
+    border: 1px solid black;
+}
+
+#scoreBoard, #timer {
+  position: fixed;
+  top: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 50px;
+  font-weight: bold;
+  z-index: 1;
+}
+
+#scoreBoard {
+  left: 10px;
+}
+
+#timer {
+  right: 10px;
+}
