@@ -104,7 +104,7 @@ function draw() {
                 timerElement.textContent = timer; // Timeri guncelle
             } else if (userPoint.color !== point.color) {
                 gameState = 'over';
-                alert("Oyun bitti!");
+                alert("Game Over!");
                 document.location.reload();
             }
         }

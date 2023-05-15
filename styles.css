@@ -29,3 +29,16 @@ body {
 #timer {
   right: 10px;
 }
+
+#info {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  z-index: 1;
+}
