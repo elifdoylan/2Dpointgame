@@ -5,3 +5,4 @@ Oyun kullanıcının kontrol ettiği bir nokta ve diğer 300 noktadan oluşur. B
 Oyunu oynamak için: http://elifdoylan.eu5.org
 
 
+![Oyun Ekran Görüntüsü](https://github.com/elifdoylan/2Dpointgame/blob/main/image.png)
